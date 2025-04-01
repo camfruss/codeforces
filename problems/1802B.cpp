@@ -1,13 +1,12 @@
+#include <algorithm>
 #include <cassert>
-
-import <algorithm>;
-import <fstream>;
-import <iostream>;
-import <limits>;
-import <ranges>;
-import <sstream>;
-import <string>;
-import <vector>;
+#include <fstream>
+#include <iostream>
+#include <limits>
+#include <ranges>
+#include <sstream>
+#include <string>
+#include <vector>
 
 
 class solution 
